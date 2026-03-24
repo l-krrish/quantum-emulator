@@ -1,0 +1,7 @@
+.venv/
+build/
+*.o
+*.so
+__pycache__/
+*.pyc
+.kiro/
