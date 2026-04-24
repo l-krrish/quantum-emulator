@@ -79,4 +79,3 @@ quantum-emulator/
 
 ---
 
-<p align="center">Built with ❤️ and quantum weirdness</p>
